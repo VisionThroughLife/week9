@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 18px;
+    background-color: rgb(30, 198, 210);
+    
+}
+h1{
+    padding: 45px;
+    text-transform: capitalize;
+}
